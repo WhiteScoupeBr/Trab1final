@@ -1,0 +1,4 @@
+In file included from C:\Users\jpcos\OneDrive\Documentos\Utfpr\Estrutura de Dados\Trab1pt2\main.cpp:6:0:
+C:\Users\jpcos\OneDrive\Documentos\Utfpr\Estrutura de Dados\Trab1pt2\Lista2.h:25:5: error: 'listaenc' does not name a type
+     listaenc.AdicionaNodeInicio(char *nomenovo,long int rgnovo);
+     ^~~~~~~~

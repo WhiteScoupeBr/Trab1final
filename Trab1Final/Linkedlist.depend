@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1535636154 source:c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\listaenc\linkedlist\lista2.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
+1535636215 c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\listaenc\linkedlist\lista2.h
+	<iostream>
+
+1535636215 source:c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\listaenc\linkedlist\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
+1536243020 source:c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\trab1pt2\lista2.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
+1536242475 c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\trab1pt2\lista2.h
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdio>
+
+1536243926 source:c:\users\jpcos\onedrive\documentos\utfpr\estrutura de dados\trab1pt2\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
+1536243020 source:c:\users\ldrpontes\downloads\trab1pt2\trab1pt2\lista2.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
+1536242475 c:\users\ldrpontes\downloads\trab1pt2\trab1pt2\lista2.h
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdio>
+
+1536255949 source:c:\users\ldrpontes\downloads\trab1pt2\trab1pt2\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
+1536243020 source:c:\users\jpcos\downloads\trab1pt2 (1)\trab1pt2\trab1pt2\lista2.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
+1536242475 c:\users\jpcos\downloads\trab1pt2 (1)\trab1pt2\trab1pt2\lista2.h
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdio>
+
+1536841115 source:c:\users\jpcos\downloads\trab1pt2 (1)\trab1pt2\trab1pt2\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Lista2.h"
+
